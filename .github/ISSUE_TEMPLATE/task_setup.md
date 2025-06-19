@@ -1,3 +1,11 @@
+---
+name: 📌 Task Setup
+about: Track a development task or milestone
+title: "[TASK] "
+labels: task
+assignees: ''
+---
+
 **Task Title:**
 
 **Objective:**
